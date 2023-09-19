@@ -18,7 +18,7 @@
 </h5>
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" alt="Coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonescoca&label=Profile%20views&color=0e75b6&style=flat" alt="simonescoca" /> </p>
+
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
