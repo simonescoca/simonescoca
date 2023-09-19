@@ -1,6 +1,21 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Simone Scoca</h1>
 <h3 align="center">A passionate jr. full-stack web developer from Italy</h3>
+<h5>
+  📘 I have successfully completed an intensive 6-month course, totaling 700 hours, which provided me with a solid foundation as a full stack developer. During the course, I completed over 70 projects, both individual and     group.
+</h5>
+<h5>
+  🌐 In my journey, I began with the basics: HTML, CSS, and JavaScript. Subsequently, I expanded my skills using modern frameworks like Vue.js with Vite for the front-end and Laravel for the back-end.
+</h5>
+<h5>
+  💼 In addition to course projects, I've worked on personal projects that allowed me to apply my knowledge in real-world contexts and refine my problem-solving skills.
+</h5>
+<h5>
+  🚀 I am enthusiastic about continuing to grow as a developer and contributing to exciting projects. Stay tuned to see my latest creations, and don't hesitate to reach out!
+</h5>
+<h5>
+  🙏 Thank you for visiting my profile, and I look forward to connecting soon with the developer community!
+</h5>
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonescoca&label=Profile%20views&color=0e75b6&style=flat" alt="simonescoca" /> </p>
